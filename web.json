@@ -1,7 +1,11 @@
 {
-    "users": [
+    "web": 
       {
-        "name": "Elliot",
+        "title": "Web de prueba"
+      },
+    "pagina": [
+      {
+        "index": "Elliot",
         "type": "Reader",
         "age": 23,
         "social": {
